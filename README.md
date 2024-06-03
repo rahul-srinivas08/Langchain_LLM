@@ -10,3 +10,4 @@
 -  document text spliter with chunk size and overlap, on token, characters , header and other methods .
 -  vectorstore and embeddings. after splitting the documents are converted into embedding built-in  and stored as vectorstoredb. have built-in an  option and cloud platform
 -  retrieval query response more relevant methods, like compression method, llm aid retrieval , mmr max marginal relevance and non vectorbasestore like tf idf svm retriver
+-  qanda using retrivaldb follow methods like map reduce, stuff ,refine , map rerank . cons is with no histroy of conversation.
