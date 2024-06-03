@@ -6,4 +6,5 @@
 -  different used cases use Q and A on documents on vector stores and embedding, query on retrieval, methods like stuff , map-reduce, map rerank on retrievalqa(llm, vectordb.as retrival) on query .
 -  an example to do evaluation using QA evaluation llms  on chains created with retrieval docs.
 -  Agents , simple lang chain agents using tools to create chain and llms to have  external knowledge, maths wiki, custom tool and add in your llm chain .
--  Langchain loader , with different sorces of data tob load like URL, pdf, notion db and youtube
+-  Langchain loader , with different sorces of data tob load like URL, pdf, notion db and youtube.
+-  document text spliter with chunk size and overlap, on token, characters , header and other methods 
