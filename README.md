@@ -7,4 +7,5 @@
 -  an example to do evaluation using QA evaluation llms  on chains created with retrieval docs.
 -  Agents , simple lang chain agents using tools to create chain and llms to have  external knowledge, maths wiki, custom tool and add in your llm chain .
 -  Langchain loader , with different sorces of data tob load like URL, pdf, notion db and youtube.
--  document text spliter with chunk size and overlap, on token, characters , header and other methods 
+-  document text spliter with chunk size and overlap, on token, characters , header and other methods .
+-  vectorstore and embeddings. after splitting the documents are converted into embedding built-in  and stored as vectorstoredb. have built-in an  option and cloud platform 
